@@ -25,7 +25,7 @@ This project is designed with a clean UI, smooth animations, and a mobile-friend
 
 ## 👨‍💻 Author
 
-Zeeshan Ramzan
+Mr. Zeeshan Ramzan
 
 📧 [versatilezeeshan1708@gmail.com] 
 🔗 GitHub [https://github.com/zees123-svg]
